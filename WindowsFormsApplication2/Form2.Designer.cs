@@ -52,6 +52,7 @@
             this.musicPlayer1.Size = new System.Drawing.Size(400, 300);
             this.musicPlayer1.TabIndex = 16;
             this.musicPlayer1.Theme = System.Drawing.Color.SkyBlue;
+            this.musicPlayer1.Click += new System.EventHandler(this.musicPlayer1_Click);
             this.musicPlayer1.Paint += new System.Windows.Forms.PaintEventHandler(this.musicPlayer1_Paint);
             // 
             // Form2

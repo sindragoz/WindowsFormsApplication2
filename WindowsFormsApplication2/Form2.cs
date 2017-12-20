@@ -103,5 +103,10 @@ namespace WindowsFormsApplication2
         {
 
         }
+
+        private void musicPlayer1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
